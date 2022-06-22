@@ -13,6 +13,20 @@ html {
   font-family: 'DM Sans', 'sans-serif';
 }
 
+/* creamos las variables para los colores del proyecto */
+
+:root {
+  --bitcoin-orange: #f7931a;
+  --soft-orange: #ffe9d5;
+  --secondary-blue: #1a9af7;
+  --soft-blue: #e7e5ee;
+  --warm-black: #201e1c;
+  --black: #282623;
+  --grey: #bababa;
+  --off-white: #faf8f7;
+  --just-white: #fff;
+}
+
 /*Sección de header*/
 
 header {
